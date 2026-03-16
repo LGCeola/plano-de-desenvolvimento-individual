@@ -24,19 +24,19 @@ Plano pessoal para orientação e evolução profissional
    - Meu conhecimento de grafos é extremamente inicial. Conheço conceitos extremamente básicos e algumas representações, como matrizes. Porém, compreendo que devem ser revisadas para relembrar esses conceitos, haja vista que também tenho que compreender conceitos mais avançados e sucintos.
   
 3. Metas técnicas
-   - Meta 1: Melhorar a análise de complexidade de algoritmos
-     Contexto: Compreender a complexidade dos algoritmos é fundamental para avaliar a eficiência das soluções desenvolvidas.
+  - Meta 1: Melhorar a análise de complexidade de algoritmos
+    Contexto: Compreender a complexidade dos algoritmos é fundamental para avaliar a eficiência das soluções desenvolvidas.
 
-     Descrição: Desenvolver a habilidade de identificar e calcular corretamente a complexidade de algoritmos iterativos e recursivos.
+    Descrição: Desenvolver a habilidade de identificar e calcular corretamente a complexidade de algoritmos iterativos e recursivos.
 
-     Plano de ação:
-     - Estudar os coneitos teóricos de análise assintótica.
-     - Resolver exercícios focados em análise de complexidade.
-     - Analisar a complexidade de algoritmos implementados durante a disciplina.
+    Plano de ação:
+    - Estudar os coneitos teóricos de análise assintótica.
+    - Resolver exercícios focados em análise de complexidade.
+    - Analisar a complexidade de algoritmos implementados durante a disciplina.
 
-     Medição: Conseguir identificar corretamente a complexidade de pelo menos 80% dos exercícios propostos.
+    Medição: Conseguir identificar corretamente a complexidade de pelo menos 80% dos exercícios propostos.
 
-     Prazo: Até a metade do semestre.
+    Prazo: Até a metade do semestre.
      
   - Meta 2: Dominar o uso de recursão e divisão e conquista
     Contexto: Esses paradigmas são amplamente utilizados em algoritmos clássicose ajudam a estruturar soluções eficientes.
@@ -63,4 +63,33 @@ Plano pessoal para orientação e evolução profissional
     - Comparar soluções recursivas simples com versões otimizadas usando programação dinâmica.
    
     Prazo: Até o final do semestre.
+
+  - Meta 4: Desenvolver habilidades com algoritmos em grafos
+    Contexto: Grafos são fundamentais em diversas aplicações da computação, como redes, sistemas de navegação e recomendação.
+
+    Descrição: Aprendera representar grafos e implementar algoritmos básicos de busca.
+
+    Plano de ação:
+    - Estudar representações de grafos.
+    - Implementar algoritmos BFS e DFS.
+    - Resolver exercícios envolvendo grafos.
+
+    Medição: Conseguir implementar BFS e DFS corretamente em exercícios práticos.
+
+    Prazo: Até o final do semestre.
+
+4. Rotina semanal de estudo
+   - Segunda-feira >> 21:00 às 22:30
+     - Estudo teórico dos conceitos apresentados em aula.
+
+   - Quarta-feira >> 21:00 às 22:30
+     - Resolução de exercícios relacionados ao conteúdo da semana.
        
+   - Sexta-feira >> 18:30 às 19:30
+     - Implementação prática de algoritmos estudados.
+       
+   - Domingo >> 16:00 às 17:00
+     - Revisão dos conteúdos estudados durante a semana.
+
+5. Plano de uso de IA
+   - Pretendo utilizar ferramentas de inteligência artificial como apoio no processo de aprendizado, principalmente para esclarecer dúvidas conceituais, revisar explicações e sugerir exercícios adicionais sobre os temas estudados. A IA também poderá ser utilizada para revisar código e apontar possíveis melhorias ou erros de implementação, evitando o seu uso para a geração de soluções completas para exercícios avaliativos ou tarefas propostas pela dsciplina.
